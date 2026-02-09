@@ -6,7 +6,7 @@
     'category': 'API',
     'depends': ['base', 'sale', 'product', 'website'],
     'data': [],
-    'icon': '/electroword_api/static/description/icon510.png',
+    'icon': '/electroword_api/static/description/icon10.png',
     'installable': True,
     'application': False,
 }
